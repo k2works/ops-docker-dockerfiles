@@ -2,4 +2,4 @@ version: '2'
 services:
   ruby:
     build: .
-    image: harc/cool_struttin:0.0.1
+    image: harc/cool_struttin:2.3.1
